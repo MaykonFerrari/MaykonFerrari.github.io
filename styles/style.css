@@ -289,6 +289,7 @@ body{
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 20%;
     }
 
     .apresentacao__conteudo {
@@ -297,5 +298,17 @@ body{
 
     .apresentacao__aboutMe{
         padding-bottom: 2%;
+    }
+}
+
+@media (max-width: 430px) {
+    .cabecalho {
+        margin-right: 5%;
+    }
+}
+
+@media (max-width: 770px) {
+    .apresentacao {
+        flex-direction: column-reverse;
     }
 }
