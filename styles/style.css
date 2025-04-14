@@ -280,5 +280,22 @@ body{
 @media (max-width: 660px) {
     .apresentacao {
         flex-direction: column-reverse;
+        padding: 5% 10%;
+    }
+
+    .cabecalho {
+        padding: 10%;
+    }
+
+    .cabecalho__menu {
+        justify-content: center;
+    }
+
+    .apresentacao__conteudo {
+        width: auto;
+    }
+
+    .apresentacao__aboutMe{
+        padding-bottom: 2%;
     }
 }
