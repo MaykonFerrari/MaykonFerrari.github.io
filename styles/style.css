@@ -40,7 +40,7 @@ body{
 
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -60,12 +60,12 @@ body{
 }
 
 .apresentacao__conteudo__titulo{
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--fonte-primaria)
 }
 
 .apresentacao__conteudo__texto{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte-secundaria)
 }
 
@@ -84,7 +84,7 @@ body{
 .apresentacao__links__subtitulo {
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentacao__links__link{
@@ -113,7 +113,7 @@ body{
     width: 378px;
     text-align: center;
     border-radius: 8px;
-    font-size: 18px;
+    font-size: 1.1rem;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
@@ -130,7 +130,7 @@ body{
 .apresentacao__links__link_contato {
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
     display: flex;
     justify-content: center;
     gap: 8px;
@@ -141,11 +141,11 @@ body{
 }
 
 .apresentacao__links__link gmail {
-    font-size: 8px;
+    font-size: 0.5rem;
 }
 
 #contato {
-    font-size: 20px;
+    font-size: 1.25rem;
     display: flex;
     justify-content: center;
 }
@@ -164,7 +164,7 @@ body{
 .linguagens_usadas {
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
     display: flex;
     justify-content: center;
     padding-top: 32px;
@@ -229,12 +229,12 @@ body{
 
 .projetos_card h3 {
     margin: 10px 0;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     font-weight: 1000;
 }
 
 .projetos_card p {
-    font-size: 12px;
+    font-size: 0.75rem;
     color: #ccc;
     margin-bottom: 15px;
     text-align: left;
@@ -271,7 +271,7 @@ body{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
     font-weight: 400;
 }
@@ -281,7 +281,7 @@ body{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
     font-weight: 400;
     position: fixed;
